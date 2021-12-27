@@ -22,5 +22,6 @@
         "mongoose",
         "express"
     ],
-    "license": "MIT"
+    "license": "MIT",
+    "author": "Jane Kim"
 }
